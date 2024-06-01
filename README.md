@@ -1,4 +1,6 @@
 # quiz
+dynamic Quiz App with amazing UI/UX design also API is integrated for quiz questions and at last a veautiful Score screen
+
 
 A new Flutter project.
 
